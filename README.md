@@ -1,2 +1,2 @@
 # Zomato-
-World Wide Restaurant Data analysis of Zomato
+World Wide Restaurants Data analysis of Zomato
